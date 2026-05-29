@@ -1,0 +1,8 @@
+{
+  "name": "Remix: بوابة جامعة الكوت",
+  "description": "نظام متكامل لتسجيل الطلبة، الدفع الإلكتروني، أرشفة الكتب الرسمية مع تواريخ انتهاء الصلاحية والتواصل الداخلي بين رئاسة الجامعة والأقسام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
